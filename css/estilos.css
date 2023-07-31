@@ -39,3 +39,8 @@ container h1{
 #container{
     width: 70%;
 }
+#footer{
+    text-align: center;
+    background: #0101;
+    color: aqua;
+}
